@@ -1,4 +1,15 @@
-# IPFS Examples
+# The Sandbox is useful because
+New users can experiement 
+*It's the Time, of the Season for Loooooving*
+
+## Table of Contents
+IPFS Examples
+Who may Contribute
+How to Contribute
+License
+
+
+### IPFS Examples
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
@@ -9,7 +20,7 @@
 
 This repo is the source for the examples on [ipfs.io/docs/examples](https://ipfs.io/docs/examples/).
 
-## Contribute
+### Contribute
 
 Feel free to join in. All welcome.
 
