@@ -1,6 +1,5 @@
 # The Sandbox is useful because
-New users can experiement 
-*It's the Time, of the Season for Loooooving*
+New users can experiement
 
 ## Table of Contents
 IPFS Examples
