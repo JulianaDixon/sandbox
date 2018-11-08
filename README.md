@@ -2,10 +2,10 @@
 New users can experiement
 
 ## Table of Contents
-IPFS Examples
-Who may Contribute
-How to Contribute
-License
+IPFS Examples  
+Who may Contribute  
+How to Contribute  
+License  
 
 
 ### IPFS Examples
