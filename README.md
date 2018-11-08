@@ -2,13 +2,13 @@
 New users can experiement
 
 ## Table of Contents
-IPFS Examples  
-Who may Contribute  
-How to Contribute  
-License  
+1. IPFS Examples  
+2. Who may Contribute  
+3. How to Contribute  
+4. License  
 
 
-### IPFS Examples
+### 1. IPFS Examples
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
@@ -19,14 +19,14 @@ License
 
 This repo is the source for the examples on [ipfs.io/docs/examples](https://ipfs.io/docs/examples/).
 
-### Contribute
+### 2. Contribute
 
 Feel free to join in. All welcome.
 
-### Want to hack on IPFS?
+### 3. Want to hack on IPFS?
 
 [![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/contributing.md)
 
-## License
+## 4. License
 
 MIT © 2016 Protocol Labs, Inc.
