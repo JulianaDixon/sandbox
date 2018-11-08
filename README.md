@@ -6,7 +6,7 @@ New users can experiement
 2. Who may Contribute  
 3. How to Contribute  
 4. License  
-
+****
 
 ### 1. IPFS Examples
 
